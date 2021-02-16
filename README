@@ -1,3 +1,14 @@
+MiniDLNA fork with video file reading during scan hacked out
+
+Significantly faster scanning high latency network storage, at the expense of some features
+
+
+---
+
+Original readme follows:
+
+---
+
 MiniDLNA project
 (c) 2009 Justin Maggard
 Portions (c) 2006-2007 Thomas Bernard
